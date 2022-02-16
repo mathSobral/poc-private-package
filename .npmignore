@@ -1,9 +1,3 @@
 src
 .github
 tsconfig.json
-.prettierrc
-tests
-coverage
-.eslintrc.json
-.eslintignore
-jest.config.js
