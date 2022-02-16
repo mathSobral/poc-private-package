@@ -1,10 +1,10 @@
 {
-  "name": "poc-private-package",
+  "name": "@mathSobral/poc-private-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mathSobral"
+    "registry": "https://npm.pkg.github.com/mathSobral"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
