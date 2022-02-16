@@ -3,3 +3,7 @@ src
 tsconfig.json
 tests
 coverage
+.jest.config.js
+.eslintignore
+.eslintrc.js
+.prettierrc
